@@ -1,1 +1,0 @@
-URL_DB = "postgresql://cursoanaliseespacial_user:1tbyyBUZjVqDA5b4S4Rl2HIDot41yUNl@dpg-d0sqf8qdbo4c73fbpemg-a.virginia-postgres.render.com:5432/cursoanaliseespacial"

@@ -1,0 +1,1 @@
+from .queimadas import extrac_load_queimadas
